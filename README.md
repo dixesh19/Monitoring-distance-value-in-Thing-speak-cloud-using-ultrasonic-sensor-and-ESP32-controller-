@@ -101,7 +101,7 @@ Prototype and build IoT systems without setting up servers or developing web sof
 #include <WiFi.h>
 
 char ssid[] = "Dinesh";
-char pass[] = "luffy"; 
+char pass[] = "monkeyDluffy"; 
 
 
 const int trigger = 25;
